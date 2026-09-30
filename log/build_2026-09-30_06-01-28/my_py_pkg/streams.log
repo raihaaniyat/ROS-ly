@@ -1,0 +1,33 @@
+[1.772s] Invoking command in '/home/raihaan/ros2_ws/src/my_py_pkg': PYTHONPATH=/home/raihaan/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/raihaan/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/raihaan/ros2_ws/build/my_py_pkg/build install --record /home/raihaan/ros2_ws/build/my_py_pkg/install.log --install-scripts $base/lib/my_py_pkg --single-version-externally-managed install_data
+[2.095s] running egg_info
+[2.095s] creating ../../build/my_py_pkg/my_py_pkg.egg-info
+[2.096s] writing ../../build/my_py_pkg/my_py_pkg.egg-info/PKG-INFO
+[2.096s] writing dependency_links to ../../build/my_py_pkg/my_py_pkg.egg-info/dependency_links.txt
+[2.096s] writing entry points to ../../build/my_py_pkg/my_py_pkg.egg-info/entry_points.txt
+[2.096s] writing requirements to ../../build/my_py_pkg/my_py_pkg.egg-info/requires.txt
+[2.096s] writing top-level names to ../../build/my_py_pkg/my_py_pkg.egg-info/top_level.txt
+[2.097s] writing manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[2.099s] reading manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[2.100s] writing manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[2.100s] running build
+[2.100s] running build_py
+[2.100s] creating /home/raihaan/ros2_ws/build/my_py_pkg/build
+[2.100s] creating /home/raihaan/ros2_ws/build/my_py_pkg/build/lib
+[2.100s] creating /home/raihaan/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[2.100s] copying my_py_pkg/__init__.py -> /home/raihaan/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg
+[2.101s] running install
+[2.101s] running install_lib
+[2.102s] creating /home/raihaan/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[2.102s] copying /home/raihaan/ros2_ws/build/my_py_pkg/build/lib/my_py_pkg/__init__.py -> /home/raihaan/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg
+[2.103s] byte-compiling /home/raihaan/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg/__init__.py to __init__.cpython-310.pyc
+[2.103s] running install_data
+[2.103s] creating /home/raihaan/ros2_ws/install/my_py_pkg/share/ament_index
+[2.103s] creating /home/raihaan/ros2_ws/install/my_py_pkg/share/ament_index/resource_index
+[2.103s] creating /home/raihaan/ros2_ws/install/my_py_pkg/share/ament_index/resource_index/packages
+[2.103s] copying resource/my_py_pkg -> /home/raihaan/ros2_ws/install/my_py_pkg/share/ament_index/resource_index/packages
+[2.103s] copying package.xml -> /home/raihaan/ros2_ws/install/my_py_pkg/share/my_py_pkg
+[2.104s] running install_egg_info
+[2.107s] Copying ../../build/my_py_pkg/my_py_pkg.egg-info to /home/raihaan/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info
+[2.108s] running install_scripts
+[2.136s] writing list of installed files to '/home/raihaan/ros2_ws/build/my_py_pkg/install.log'
+[2.178s] Invoked command in '/home/raihaan/ros2_ws/src/my_py_pkg' returned '0': PYTHONPATH=/home/raihaan/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/raihaan/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/raihaan/ros2_ws/build/my_py_pkg/build install --record /home/raihaan/ros2_ws/build/my_py_pkg/install.log --install-scripts $base/lib/my_py_pkg --single-version-externally-managed install_data
